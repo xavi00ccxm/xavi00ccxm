@@ -19,17 +19,19 @@ I build end-to-end analytics solutions: stakeholder requirements → data modeli
 > Upload your screenshots into `powerbi-screenshots/` and update the file names below.
 
 ### Executive / Overview Dashboard
-![Executive Dashboard](./powerbi-screenshots/dashboard-01.png)
+![Executive Dashboard](./powerbi-screenshots/Picture1.png)
 
 ### Department & Budget Drill-Down
-![Department Drill-Down](./powerbi-screenshots/dashboard-02.png)
+![Department Drill-Down](./powerbi-screenshots/Picture2.png)
 
 ### Employee / Detail View
-![Employee Detail](./powerbi-screenshots/dashboard-03.png)
+![Employee Detail](./powerbi-screenshots/Picture3.png)
 
-## Education
-- **M.S. Data Science (in progress)** — University of West Florida (UWF), Pensacola  
-  Focus: databases, analytics, and applied data science
+### Additional samples
+![Sample 4](./powerbi-screenshots/Picture4.png)
+![Sample 5](./powerbi-screenshots/Picture5.png)
+![Sample 6](./powerbi-screenshots/Picture6.png)
+
 
 ## Contact
 - GitHub: https://github.com/xavi00ccxm
