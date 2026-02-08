@@ -15,6 +15,9 @@ I build end-to-end analytics solutions: stakeholder requirements → data modeli
 - **Florida Federated Data Architecture** — Data architecture design, governance, and integration patterns  
   https://github.com/xavi00ccxm/Florida-Federated-Data-Architecture
 
+> Note: All dashboards shown use public datasets and/or synthetic (fake) data for demonstration. No confidential or proprietary information is included.
+
+
 ## Power BI dashboard samples
 
 ### Executive / Overview Dashboard
