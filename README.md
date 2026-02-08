@@ -4,14 +4,15 @@ I build end-to-end analytics solutions: stakeholder requirements → data modeli
 
 ## Core focus: SQL Server (SSMS) + Data Architecture
 
-I specialize in designing reliable SQL Server data foundations and turning them into stakeholder-ready analytics.
-My work centers on: data modeling (star schema), ETL (Extract, Transform, Load), SQL validation/quality checks,
-and architecture patterns that scale.
+I build reliable SQL Server data foundations and turn them into stakeholder-ready decision reporting. My work centers on data modeling (star schema), ETL (Extract, Transform, Load), SQL validation/quality checks, and scalable architecture patterns—then delivering results through Power BI and Excel dashboards that make trends, variances, and KPIs easy to act on.
 
-**Where I add the most value**
-- **SSMS / SQL Server:** SQL development, ETL pipelines, dimensional modeling, performance tuning basics, data quality checks
+### Where I add the most value
+- **SSMS / SQL Server:** SQL development, ETL pipelines, dimensional modeling (star schema), performance tuning basics, data quality checks
 - **Data Architecture:** modeling standards, governance-aware design, integration patterns, documentation, and repeatable frameworks
-- **Analytics Delivery:** translating business questions into metrics, clear definitions, and clean reporting outputs
+- **Power BI Reporting:** executive dashboards, KPI design, drill-through/slicers, trend + variance views (MoM/YoY), exception monitoring, and summary statistics for stakeholder decision-making
+- **Excel Dashboards:** dynamic dashboards (PivotTables/Power Pivot), refreshable reporting, formulas (XLOOKUP, INDEX-MATCH), and stakeholder-ready exports
+- **Delivery:** translating business questions into metrics, defining KPIs clearly, and producing clean, stakeholder-ready outputs
+
 
 
 ## Projects (public)
