@@ -1,4 +1,4 @@
-# Otto X. De La Rocha — SQL Server (SSMS) + Data Architecture | Power BI + Excel Reporting
+# Otto DeLaRocha — SQL Server (SSMS) + Data Architecture | Power BI + Excel Reporting
 
 I build end-to-end analytics solutions: stakeholder requirements → data modeling → ETL (Extract, Transform, Load) → SQL queries → Power BI and Excel dashboards.
 
